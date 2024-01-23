@@ -1,0 +1,15 @@
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\bin\Debug\net6.0\1651-ASM.exe
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\bin\Debug\net6.0\1651-ASM.deps.json
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\bin\Debug\net6.0\1651-ASM.runtimeconfig.json
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\bin\Debug\net6.0\1651-ASM.dll
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\bin\Debug\net6.0\1651-ASM.pdb
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\obj\Debug\net6.0\1651-ASM.csproj.AssemblyReference.cache
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\obj\Debug\net6.0\1651-ASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\obj\Debug\net6.0\1651-ASM.AssemblyInfoInputs.cache
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\obj\Debug\net6.0\1651-ASM.AssemblyInfo.cs
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\obj\Debug\net6.0\1651-ASM.csproj.CoreCompileInputs.cache
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\obj\Debug\net6.0\1651-ASM.dll
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\obj\Debug\net6.0\refint\1651-ASM.dll
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\obj\Debug\net6.0\1651-ASM.pdb
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\obj\Debug\net6.0\1651-ASM.genruntimeconfig.cache
+C:\Users\Doan Vo Quy\OneDrive\Documents\Visual Studio Code File\Visual Studio Code\1651-ASM\1651-ASM\obj\Debug\net6.0\ref\1651-ASM.dll
